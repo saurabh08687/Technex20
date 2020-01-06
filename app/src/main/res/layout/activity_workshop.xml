@@ -24,6 +24,12 @@
             android:layout_marginRight="18dp"
             app:cardCornerRadius="15dp">
 
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tech"/>
+
             <TextView
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
@@ -32,6 +38,7 @@
                 android:paddingTop="18dp"
                 android:paddingRight="18dp"
                 android:text="COPS"
+                android:textColor="@android:color/white"
                 android:textSize="30sp" />
 
             <Button
@@ -54,6 +61,12 @@
             android:layout_marginRight="18dp"
             app:cardCornerRadius="20dp">
 
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tech"/>
+
             <Button
                 android:id="@+id/button6"
                 android:layout_width="150dp"
@@ -71,7 +84,10 @@
                 android:paddingLeft="18dp"
                 android:paddingTop="18dp"
                 android:paddingRight="18dp"
+                android:textColor="@android:color/white"
                 android:layout_height="160dp"
+
+
             android:text="Robotics"
             android:textSize="30sp" />
         </androidx.cardview.widget.CardView>
@@ -84,6 +100,12 @@
             android:layout_marginRight="18dp"
             app:cardCornerRadius="20dp">
 
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tech"/>
+
             <TextView
                 android:id="@+id/textView6"
                 android:layout_width="match_parent"
@@ -91,6 +113,7 @@
                 android:paddingTop="18dp"
                 android:paddingRight="18dp"
                 android:text="Astronomy"
+                android:textColor="@android:color/white"
                 android:textSize="30sp"
                 android:layout_height="160dp" />
 
@@ -112,6 +135,11 @@
             android:layout_marginTop="18dp"
             android:layout_marginRight="18dp"
             app:cardCornerRadius="20dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tech"/>
 
             <TextView
                 android:id="@+id/textView7"
@@ -120,6 +148,7 @@
                 android:paddingTop="18dp"
                 android:paddingRight="18dp"
                 android:text="SAE"
+                android:textColor="@android:color/white"
                 android:textSize="30sp"
                 android:layout_height="160dp" />
 
@@ -142,6 +171,12 @@
             android:layout_marginRight="18dp"
             app:cardCornerRadius="20dp">
 
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tech"/>
+
             <TextView
                 android:id="@+id/textView8"
                 android:layout_width="match_parent"
@@ -149,6 +184,7 @@
                 android:paddingTop="18dp"
                 android:paddingRight="18dp"
                 android:text="Astronomy"
+                android:textColor="@android:color/white"
                 android:textSize="30sp"
                 android:layout_height="160dp" />
 

@@ -100,6 +100,7 @@
             android:layout_marginRight="18dp"
             android:background="@drawable/a"
             app:cardCornerRadius="20dp">
+
             <TextView
                 android:textColor="@android:color/white"
                 android:text="MLware"
